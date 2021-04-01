@@ -15,13 +15,13 @@ class Product {
         return false;
         */
 
-        // JAVA 14 - NEW CODE, LONG VERSION
+        // JAVA 16 - NEW CODE, LONG VERSION
         if (obj instanceof Product otherObj) {
             return model.equals(otherObj.model) && price.equals(otherObj.price);
         }
         return false;
 
-        // JAVA 14 - NEW CODE, SHORT VERSION
+        // JAVA 16 - NEW CODE, SHORT VERSION
         // return obj instanceof Monitor otherObj && model.equals(otherObj.model) && price.equals(otherObj.price);
     }
 }
