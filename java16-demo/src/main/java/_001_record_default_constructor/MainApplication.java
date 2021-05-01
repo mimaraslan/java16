@@ -14,7 +14,7 @@ public class MainApplication {
     }
 
     public static void main(String[] args) {
-        var person1 = new Person("Katerina", 35);
+        var person1 = new Person("Katerina", 0);
         var person2 = new Person("Lena", 44);
 
         System.out.println("Object\t\t: " + person1);

@@ -12,3 +12,5 @@ IntelliJ IDEA (https://www.jetbrains.com/idea/nextversion)
 ![IntelliJ IDEA + JDK 16](src/main/resources/images/IntelliJ-IDEA-photo1.png)
 
 ![IntelliJ IDEA + JDK 16](src/main/resources/images/IntelliJ-IDEA-photo3.png)
+
+![IntelliJ IDEA + JDK 16](src/main/resources/images/IntelliJ-IDEA-photo4.png)
