@@ -9,7 +9,7 @@ IntelliJ IDEA (https://www.jetbrains.com/idea/nextversion)
 
 ![IntelliJ IDEA + JDK 16](java16-demo/src/main/resources/images/IntelliJ-IDEA-photo1.png)
 
-![IntelliJ IDEA + JDK 16](java16-demo/src/main/resources/images/IntelliJ-IDEA-photo1.png)
+![IntelliJ IDEA + JDK 16](java16-demo/src/main/resources/images/IntelliJ-IDEA-photo2.png)
 
 ![IntelliJ IDEA + JDK 16](java16-demo/src/main/resources/images/IntelliJ-IDEA-photo3.png)
 
